@@ -1,5 +1,5 @@
 {
-    "name": "rftb-feedback-app",
+    "name": "rftb-github-finder",
     "version": "0.1.0",
     "private": true,
     "proxy": "http://localhost:5000",
@@ -15,7 +15,6 @@
         "react-icons": "^4.3.1",
         "react-router-dom": "^6.3.0",
         "react-scripts": "5.0.0",
-        "uuid": "^8.3.2",
         "web-vitals": "^2.1.4"
     },
     "scripts": {
